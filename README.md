@@ -12,3 +12,12 @@ An interactive Tableau dashboard analyzing customer complaints related to credit
 - What percentage of complaints are resolved satisfactorily vs. escalated?
 - Are there patterns in complaints over time (seasonal trends, spikes)?
 - Dashboard Interaction <a href="https://github.com/thecodingraj/Credit-Card-Complaints-Dashboard/commit/5497f6e18e69131828198da5f110b2f9f8c50a4c">View Dashboard</a>
+
+## Process
+- Data Collection: Imported customer complaint data, including categories, timestamps, and resolution statuses.
+- Data Cleaning & Preparation: Processed and structured the data in Tableau for clarity and consistency.
+- Visualization: Created dynamic dashboards to highlight complaint categories, resolution timelines, and geographic patterns.
+- Analysis: Interpreted data to identify pain points and operational inefficiencies.
+
+## Dashboard
+ ![Screenshot 2025-01-09 194823](https://github.com/thecodingraj/Credit-Card-Complaints-Dashboard/commit/5497f6e18e69131828198da5f110b2f9f8c50a4c)
