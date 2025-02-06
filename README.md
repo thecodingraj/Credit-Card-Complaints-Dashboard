@@ -21,3 +21,12 @@ An interactive Tableau dashboard analyzing customer complaints related to credit
 
 ## Dashboard
  ![Screenshot 2025-01-09 194823](https://github.com/thecodingraj/Credit-Card-Complaints-Dashboard/commit/5497f6e18e69131828198da5f110b2f9f8c50a4c)
+
+## Project Insight
+- Billing disputes and fraudulent transactions were the most frequently reported issues.
+- Complaints from certain regions showed longer resolution times, indicating potential operational bottlenecks.
+- A spike in complaints was observed during holiday seasons, often related to transaction failures and unauthorized charges.
+- Automated responses led to lower customer satisfaction compared to personalized resolutions.
+
+## Final Conclusion:
+The project successfully analyzed EV sales data, uncovering key trends and insights. The interactive Power BI dashboard provides a comprehensive view of state-wise performance, vehicle preferences, and growth trends. These insights can aid stakeholders in making informed decisions about market strategies, product focus, and regional investments, ultimately promoting the adoption and development of electric vehicles in India.
